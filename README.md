@@ -10,7 +10,7 @@ npm install -g jest
 
 <h2> Run the Project</h2>
 
- * Clone the project <a href="https://github.com/julianzp/youtube-get-api.git" target="_blank"></a>.</li>
+ * Clone the project: https://github.com/julianzp/youtube-get-api.git
 
  * Open the terminal in the directory YOUTUBE-GET-API and execute this command:
 
@@ -37,3 +37,6 @@ npx jest
 ```
 to execute the unit test suites
 
+<h4>Contact</h4>
+
+* In case something was wrong with the run locally, contact: zapataparrajulian@gmail.com
